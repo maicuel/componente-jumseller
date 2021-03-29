@@ -1,0 +1,24 @@
+{
+    "name": "bloque-contenido",
+    "icon": "cog",
+    "options": {
+      "title": {
+        "name": "Title",
+        "type": "input",
+        "default": null,
+        "help": ""
+      },
+      "text": {
+        "name": "Text",
+        "type": "text",
+        "default": null,
+        "help": ""
+      },
+      "image-background": {
+        "name": "image-background",
+        "type": "file",
+        "default": null,
+        "help": ""
+      }
+    }
+  }
